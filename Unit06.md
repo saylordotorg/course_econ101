@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON101: Principles of Microeconomics"
+course_description: "An introductory course that provides a basic understanding of microeconomic principles. Analyzes the economic factors influencing decisions made at the individual level, after evaluating resources, costs, and tradeoffs."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Market Structure: Competitive and Non-competitive Markets**
 <span id="6"></span> 
 *This unit will introduce the concept of perfect competition,

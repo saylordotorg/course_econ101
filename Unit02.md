@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON101: Principles of Microeconomics"
+course_description: "An introductory course that provides a basic understanding of microeconomic principles. Analyzes the economic factors influencing decisions made at the individual level, after evaluating resources, costs, and tradeoffs."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Supply and Demand** <span id="2"></span> 
 *This unit will first introduce you the* ceteris paribus *assumption,
 which is crucial to building correlations between economic variables.

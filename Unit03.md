@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON101: Principles of Microeconomics"
+course_description: "An introductory course that provides a basic understanding of microeconomic principles. Analyzes the economic factors influencing decisions made at the individual level, after evaluating resources, costs, and tradeoffs."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Markets and Individual Maximizing Behavior** <span
 id="3"></span> 
 *This unit will examine the ways in which markets increase overall

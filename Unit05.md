@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON101: Principles of Microeconomics"
+course_description: "An introductory course that provides a basic understanding of microeconomic principles. Analyzes the economic factors influencing decisions made at the individual level, after evaluating resources, costs, and tradeoffs."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Producer** <span id="5"></span> 
 *In this unit, we will learn about one of the most important economic
 agents: the producer.  The producer (firm) is responsible for creating

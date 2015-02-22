@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON101: Principles of Microeconomics"
+course_description: "An introductory course that provides a basic understanding of microeconomic principles. Analyzes the economic factors influencing decisions made at the individual level, after evaluating resources, costs, and tradeoffs."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Consumer** <span id="4"></span> 
 *This unit will focus on the individual consumer and the characteristics
 that compel a consumer (to choose) to spend income on goods and
