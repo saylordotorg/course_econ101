@@ -1,8 +1,8 @@
 Course Syllabus for "ECON101: Principles of Microeconomics"
 -----------------------------------------------------------
 
-**Please note: A fully-supported version of ECON101 is available at 
-https://learn.saylor.org/course/econ101/. This [legacy version](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) of ECON102 does not offer a certificate and may contain 
+**<span style="background-color: yellow;">Please note: A fully-supported version of ECON101 is available at 
+https://learn.saylor.org/course/econ101/.</span> This [legacy version](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) of ECON102 does not offer a certificate and may contain 
 broken links and outdated information.** Although archived, it is open 
 for learning without registration or enrollment. Please consider contributing 
 updates to [this course on GitHub](https://github.com/saylordotorg/course_econ101) 
