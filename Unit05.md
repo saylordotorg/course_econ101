@@ -32,7 +32,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: *Principles of Microeconomics*: “Chapter 8: Production
     and Cost”**
     Link: *Principles of Microeconomics*: [“Chapter 8: Production and
-    Cost”](http://www.saylor.org/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Cost”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read this chapter, including the Introduction. Take a
     moment to read through the stated learning outcomes for this chapter
@@ -251,15 +251,15 @@ id="5.1.2.4"></span> 
 -   **Reading: MIT OpenCourseWare: “Principles of Economics Lecture
     Notes D10-D14”**
     Link: MIT OpenCourseWare: [“Principles of Economics Lecture Notes
-    D10”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D10.pdf), [“Principles
+    D10”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D10.pdf), [“Principles
     of Economics Lecture Notes
-    D11”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D11.pdf),
+    D11”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D11.pdf),
     [“Principles of Economics Lecture Notes
-    D12”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D12.pdf), [“Principles
+    D12”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D12.pdf), [“Principles
     of Economics Lecture Notes
-    D13”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D13.pdf),
+    D13”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D13.pdf),
     and [“Principles of Economics Lecture Notes
-    D14”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D14.pdf) (PDF)  
+    D14”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D14.pdf) (PDF)  
       
      Instructions: These are optional readings.  Please click on the
     links above to review producer theory and to take a look at how

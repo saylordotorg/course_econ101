@@ -54,11 +54,11 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: *Principles of Microeconomics*: “Chapter 7, Sections 1
     and 2”**
     Link:  *Principles of Microeconomics*: [“Chapter 7, Sections 1 and
-    2”](http://www.saylor.org/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    2”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read the first two sections in *Principles of
     Microeconomics* including the Introduction, [“Analysis of Consumer
-    Choice”](http://www.saylor.org/site/textbooks/Principles%20of%20Microeconomics.pdf).
+    Choice”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf).
      Please take a moment to read through the stated learning outcomes
     for this chapter of the text, which you can find at the beginning of
     each section.  These should be your goals as you read through the
@@ -102,7 +102,7 @@ id="4.1.4"></span> 
     Behavior”**
     Link: Boise State University: R. Larry Reynolds’ *Principles of
     Microeconomics*: [“Chapter 9: Consumer
-    Behavior”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON101-Reynolds-Consumer-Behavior.pdf) (PDF)  
+    Behavior”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-Reynolds-Consumer-Behavior.pdf) (PDF)  
       
      Instructions: This is an optional reading.  You can read this
     chapter for a lucid graphical exposition of Utility Analysis.  
@@ -165,7 +165,7 @@ id="4.1.4"></span> 
     Link: *Principles of Microeconomics*: [“Chapter 7, Section 3:
     Indifference Curve Analysis: An Alternative Approach to
     Understanding Consumer
-    Choice”](http://www.saylor.org/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Choice”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read this section to learn about “indifference
     analysis.”  
@@ -345,11 +345,11 @@ id="4.2.3.1"></span> 
 -   **Reading: MIT OpenCourseWare: “Principles of Economics Lecture
     Notes D5-D7”**
     Link: MIT OpenCourseWare: [“Principles of Economics Lecture Notes
-    D5”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D5.pdf) (PDF), [“Principles
+    D5”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D5.pdf) (PDF), [“Principles
     of Economics Lecture Notes
-    D6”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D6.pdf) (PDF),
+    D6”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D6.pdf) (PDF),
     and [“Principles of Economics Lecture Notes
-    D7”](http://www.saylor.org/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D7.pdf) (PDF)  
+    D7”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D7.pdf) (PDF)  
       
      Instructions: These are optional readings.  You may go through
     these notes if you wish to review topics covered in this unit in a

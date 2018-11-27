@@ -52,7 +52,7 @@ economics.*
     Link: biz/ed’s [“The Economic
     Problem”](http://www.bized.co.uk/learn/economics/notes/problem.htm) (HTML)
     and *Principles of Microeconomics*: ["Chapter 1, Section 1: Defining
-    Economics"](http://www.saylor.org/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Economics"](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      The Economic Problem is also available in:  
      [MP3](http://www.bized.co.uk/sites/bized/files/audio/problem.mp3)  
@@ -175,7 +175,7 @@ id="1.1.2.4"></span> 
 -   **Reading: *Principles of Microeconomics*: “Chapter 1, Sections 2
     and 3”**
     Link: *Principles of Microeconomics*: [“Chapter 1, Sections 2 and
-    3”](http://www.saylor.org/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    3”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read these sections. Please take a moment to read
     through the stated learning outcomes for this chapter of the text,
@@ -198,7 +198,7 @@ economists use to analyze the world.  These should show you how to
 -   **Reading: *Principles of Microeconomics*: “Chapter 2, Sections 1
     and 2”**
     Link: *Principles of Microeconomics*: [“Chapter 2, Sections 1 and
-    2”](http://www.saylor.org/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    2”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read these sections. Take a moment to read through
     the stated learning outcomes for this chapter of the text, which you
