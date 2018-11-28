@@ -80,7 +80,7 @@ computer.
 √    Be competent in the English language.
 
 √    Have read the [Saylor Student
-Handbook](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
+Handbook](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf).
 
 ### Course Information
 
@@ -101,7 +101,7 @@ prominently used:
 -   [Khan Academy Videos in
     microeconomics](http://www.khanacademy.org/#microeconomics)
 -   [*Principles of
-    Microeconomics*](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf)
+    Microeconomics*](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf)
 
 **Requirements for Completion:** You are expected to read each unit and
 the assigned readings and videos provided.  Throughout the course, there
@@ -143,7 +143,7 @@ comprehensive.
     as you progress through each resource box below.  
       
      Reading: *[Principles of
-    Microeconomics](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf)* (PDF)  
+    Microeconomics](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf)* (PDF)  
       
      Terms of Use: This text was adapted by The Saylor Foundation under
     a [Creative Commons Attribution-NonCommercial-Share-Alike 3.0

@@ -48,7 +48,7 @@ Upon successful completion of this unit, the student will be able to:
     Markets for Goods and Services”**
     Link: *Principles of Microeconomics*: [“Chapter 9: Competitive
     Markets for Goods and
-    Services”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Services”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read this chapter, including the introduction.
     Understanding the model of Perfect Competition is crucial to your
@@ -164,7 +164,7 @@ Upon successful completion of this unit, the student will be able to:
 **6.2 Non-Competitive Markets: Monopoly** <span id="6.2"></span> 
 -   **Reading: *Principles of Microeconomics*: “Chapter 10: Monopoly”**
     Link: *Principles of Microeconomics*: [“Chapter 10:
-    Monopoly”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Monopoly”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read this chapter to understand the characteristics,
     workings, and effects of the monopoly model. Take a moment to read
@@ -340,7 +340,7 @@ market for restaurants in a city) and another in which few firms compete
     Monopolistic Competition: Competition Among Many”**
     Link: *Principles of Microeconomics*: [“Chapter 11, Section 1:
     Monopolistic Competition: Competition Among
-    Many”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Many”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read the introduction to the chapter before reading
     section 1.  Please take a moment to read through the stated learning
@@ -424,7 +424,7 @@ id="6.3.1.3"></span> 
     Oligopoly: Competition Among the Few”**
     Link: *Principles of* *Microeconomics*: [“Chapter 11, Section 2:
     Oligopoly: Competition Among the
-    Few”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Few”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: This reading covers both topics under subunit 6.3.2 
     However, please skip the section “Measuring Concentration in
@@ -555,7 +555,7 @@ id="6.3.1.3"></span> 
 -   **Reading: MIT OpenCourseWare: “Principles of Economics Lecture
     Notes D22-D29”**
     Link: MIT OpenCourseWare: [“Principles of Economics Lecture Notes
-    D22-D29”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D22-D29.pdf) (PDF)  
+    D22-D29”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D22-D29.pdf) (PDF)  
       
      Instructions: These are optional readings.  Please click on the
     link above and then scroll down and download the PDFs numbered
