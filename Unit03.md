@@ -31,7 +31,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: *Principles of Microeconomics*: “Chapter 6, Sections 1
     and 2”**
     Link: *Principles of Microeconomics:* [“Chapter 6, Sections 1 and
-    2”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    2”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read section 1 to revisit the concept of Marginal
     Costs and Benefits within the context of the consumer’s (and the
@@ -157,7 +157,7 @@ intervention designed to drive the market towards efficiency.*
     Review and Practice”**
     Link: *Principles of Microeconomics*: [“Chapter 6, Section 4: Review
     and
-    Practice”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Practice”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read this section for a more detailed look at the
     topic of market failure.  

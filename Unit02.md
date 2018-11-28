@@ -101,7 +101,7 @@ encounter this term quite often in Demand and Supply Models.*
 -   **Reading: *Principles of Microeconomics*: “Chapter 3, Section 1:
     Demand”**
     Link: *Principles of Microeconomics*: [“Chapter 3, Section 1:
-    Demand”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Demand”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read this section to learn about the theory of
     demand.  Use the data from the text to practice constructing and
@@ -218,7 +218,7 @@ of the good than before.*
 -   **Reading: *Principles of Microeconomics*: “Chapter 3, Section 2:
     Supply”**
     Link: *Principles of Microeconomics*: [“Chapter 3, Section 2:
-    Supply”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Supply”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read this section to learn about the theory of
     supply.  Use the data from the text to practice drawing the supply
@@ -290,7 +290,7 @@ both desirable and undesirable for buyers or sellers.*
     Demand, Supply, and Equilibrium”**
     Link: *Principles of Microeconomics*: [“Chapter 3, Section 3:
     Demand, Supply, and
-    Equilibrium”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Equilibrium”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read this section to learn how demand and supply
     interact with one another to determine prices and quantities that
@@ -342,7 +342,7 @@ id="2.4.3"></span> 
     Putting Demand and Supply to Work”**
     Link: *Principles of Microeconomics*: [“Chapter 4, Section 1:
     Putting Demand and Supply to
-    Work”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Work”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read this section to learn about some applications of
     the demand and supply model.  
@@ -392,7 +392,7 @@ id="2.4.3"></span> 
     Ceilings”**
     Link: *Principles of Microeconomics*: [“Chapter 4, Section 2:
     Government Intervention in Market Prices: Price Floors and Price
-    Ceilings”](https://resources.saylor.org/archived/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
+    Ceilings”](https://resources.saylor.org/wwwresources/archived/site/textbooks/Principles%20of%20Microeconomics.pdf) (PDF)  
       
      Instructions: Read this section to learn why the government
     sometimes chooses to control prices. Take a moment to read through
@@ -640,11 +640,11 @@ due to a percentage change in the price of that good.*
 -   **Reading: MIT OpenCourseWare: “Principles of Economics Lecture
     Notes D2-D4”**
     Link: MIT OpenCourseWare: [“Principles of Economics Lecture Notes
-    D2”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D2.pdf), [“Principles
+    D2”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D2.pdf), [“Principles
     of Economics Lecture Notes
-    D3”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D3.pdf),
+    D3”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D3.pdf),
     and [“Principles of Economics Lecture Notes
-    D4”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D4.pdf) (PDF)  
+    D4”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON101-MITOCW-UNIT2-D4.pdf) (PDF)  
       
      Instructions: These are optional readings.  Please read through the
     notes in the first link (entitled D2, or “The Basics of Supply and

@@ -166,7 +166,7 @@ id="7.4"></span> 
     Petroff’s Microeconomics: “Chapter 8”**
     Link: Professional Educational Organization International: John
     Petroff’s *Microeconomics*: [“Chapter
-    8”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/ECON101-Petroff-Chapter-8.pdf) (PDF)  
+    8”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/ECON101-Petroff-Chapter-8.pdf) (PDF)  
       
      Instructions: You will likely find the examples in the above
     material useful to understanding the concepts in this subunit.  
